@@ -12,7 +12,6 @@ function __construct($msg){
 $this->msg = $msg;
 
 }
-
 }
 
 ?>
